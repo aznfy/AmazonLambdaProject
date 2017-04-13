@@ -2,35 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="476af316-dc07-447e-bdfa-d3d3093ba7f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/fangyang.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/dynamo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/bootstrap-4.0.0-alpha.6-dist/jumbotron.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/static/jquery/jquery-3.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/templates/imagecrawler/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/templates/login/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/templates/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/templates/register/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/templates/thumbnails/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/thumbnails.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project2/app/views.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000008.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project2/downloaded_pictures/000010.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ECE1779/venv-3.5-ece1779/README.rst" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ECE1779/venv-3.5-ece1779/bin/activate" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ECE1779/venv-3.5-ece1779/bin/activate.csh" afterPath="" />
@@ -2346,6 +2327,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ECE1779/venv-3.5-ece1779/lib/python3.5/site-packages/wtforms/widgets/html5.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ECE1779/venv-3.5-ece1779/pip-selfcheck.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ECE1779/venv-3.5-ece1779/pyvenv.cfg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project2/app/forms.py" afterPath="$PROJECT_DIR$/project2/app/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project2/app/templates/imagecrawler/form.html" afterPath="$PROJECT_DIR$/project2/app/templates/imagecrawler/form.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ECE1779/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ECE1779/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ECE1779/project1/manager.py" afterPath="$PROJECT_DIR$/../ECE1779/project1/manager.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ECE1779/project1/manager/ec2.py" afterPath="$PROJECT_DIR$/../ECE1779/project1/manager/ec2.py" />
@@ -2365,8 +2349,8 @@
     <SUITE FILE_PATH="coverage/AmazonLambdaProject$init_db.coverage" NAME="init_db Coverage Results" MODIFIED="1491860000095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/react-keep-master" />
     <SUITE FILE_PATH="coverage/AmazonLambdaProject$run__3_.coverage" NAME="run (3) Coverage Results" MODIFIED="1491860416111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2" />
     <SUITE FILE_PATH="coverage/AmazonLambdaProject$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1491963615142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ECE1779/project1" />
-    <SUITE FILE_PATH="coverage/AmazonLambdaProject$run.coverage" NAME="run Coverage Results" MODIFIED="1492031108166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project2" />
-    <SUITE FILE_PATH="coverage/AmazonLambdaProject$test.coverage" NAME="test Coverage Results" MODIFIED="1491974631270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ECE1779" />
+    <SUITE FILE_PATH="coverage/AmazonLambdaProject$run.coverage" NAME="run Coverage Results" MODIFIED="1492050383169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project2" />
+    <SUITE FILE_PATH="coverage/AmazonLambdaProject$test.coverage" NAME="test Coverage Results" MODIFIED="1492045713004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ECE1779" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -2377,8 +2361,8 @@
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project2/app/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="136" column="54" lean-forward="false" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
+            <state relative-caret-position="2025">
+              <caret line="135" column="41" lean-forward="true" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
               <folding>
                 <element signature="e#0#87#0" expanded="true" />
               </folding>
@@ -2386,26 +2370,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ECE1779/test2.py">
+      <file leaf-file-name="thumbnails.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project2/app/thumbnails.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-120">
+              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project2/app/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="57" column="75" lean-forward="false" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
-                <marker date="1489895966000" expanded="true" signature="6960:7003" ph="SELECT * FRO... config_parameters" />
-                <marker date="1489895966000" expanded="true" signature="7218:7313" ph="UPDATE confi... " />
-                <marker date="1489895966000" expanded="true" signature="7548:7643" ph="UPDATE confi... " />
+                <element signature="e#0#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project2/app/templates/login/login.html">
+      <file leaf-file-name="thumbnails.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/thumbnails.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="15">
+              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+              <folding>
+                <marker date="1489853620000" expanded="true" signature="410:632" ph="SELECT image... images" />
+                <marker date="1489853620000" expanded="true" signature="1401:1635" ph="SELECT image... images" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="downloader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/downloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="125" column="25" lean-forward="false" selection-start-line="125" selection-start-column="25" selection-end-line="127" selection-end-column="58" />
+              <folding>
+                <element signature="e#25#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="169" column="42" lean-forward="false" selection-start-line="169" selection-start-column="42" selection-end-line="169" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -2414,8 +2440,8 @@
       <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/app/templates/imagecrawler/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="540">
+              <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -2424,11 +2450,9 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ECE1779/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="57" />
-              <folding>
-                <element signature="e#372#385#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="555">
+              <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2436,9 +2460,10 @@
       <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1295">
-              <caret line="206" column="38" lean-forward="false" selection-start-line="206" selection-start-column="38" selection-end-line="206" selection-end-column="38" />
+            <state relative-caret-position="2565">
+              <caret line="186" column="33" lean-forward="false" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
               <folding>
+                <element signature="e#0#78#0" expanded="true" />
                 <marker date="1491883975000" expanded="true" signature="2486:2522" ph="SELECT * FRO... users" />
                 <marker date="1491883975000" expanded="true" signature="2774:2828" ph="SELECT * FRO... users" />
                 <marker date="1491883975000" expanded="true" signature="3768:3804" ph="SELECT * FRO... users" />
@@ -2448,46 +2473,6 @@
                 <marker date="1491883975000" expanded="true" signature="10015:10069" ph="SELECT * FRO... users" />
                 <marker date="1491883975000" expanded="true" signature="11800:11906" ph="INSERT INTO images... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/templates/login/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/templates/register/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/templates/imagetransform/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project2/app/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -2512,6 +2497,9 @@
       <find>media_count</find>
       <find>dowlo</find>
       <find>hello</find>
+      <find>logger</find>
+      <find>print</find>
+      <find>thumbnai</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -2546,17 +2534,18 @@
         <option value="$PROJECT_DIR$/project2/app/templates/main.html" />
         <option value="$PROJECT_DIR$/project2/app/__init__.py" />
         <option value="$PROJECT_DIR$/project2/app/dynamo.py" />
-        <option value="$PROJECT_DIR$/../ECE1779/test.py" />
         <option value="$PROJECT_DIR$/project2/app/templates/thumbnails/list.html" />
         <option value="$PROJECT_DIR$/project2/app/thumbnails.py" />
-        <option value="$PROJECT_DIR$/project2/run.py" />
         <option value="$USER_HOME$/Downloads/zappa_flask_dynamo/zappa_settings.json" />
         <option value="$PROJECT_DIR$/zappa_settings.json" />
         <option value="$USER_HOME$/Downloads/zappa_flask_dynamo/run.py" />
         <option value="$PROJECT_DIR$/project2/zappa_settings.json" />
         <option value="$PROJECT_DIR$/../ECE1779/project1/app/templates/imagetransform/form.html" />
         <option value="$PROJECT_DIR$/project2/app/templates/base.html" />
+        <option value="$PROJECT_DIR$/project2/run.py" />
+        <option value="$PROJECT_DIR$/../ECE1779/test.py" />
         <option value="$PROJECT_DIR$/project2/app/templates/imagecrawler/form.html" />
+        <option value="$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/downloader.py" />
         <option value="$PROJECT_DIR$/project2/app/forms.py" />
       </list>
     </option>
@@ -2590,7 +2579,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2600,6 +2588,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ECE1779" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AmazonLambdaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ECE1779" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="your_image_dir" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2783,24 +2785,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="downloaded_pictures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AmazonLambdaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AmazonLambdaProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -2929,16 +2913,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyDependenciesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="thumb_view&#9;null&#9;null&#10;upload_form&#9;null&#9;null&#10;Results&#9;null&#9;null&#10;index.js&#9;FILE&#9;file:///Users/fangyang/Downloads/kept-master/src/js/utils/index.js&#10;marked&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="get_filename&#9;null&#9;null&#10;thumb_view&#9;null&#9;null&#10;upload_form&#9;null&#9;null&#10;Results&#9;null&#9;null&#10;index.js&#9;FILE&#9;file:///Users/fangyang/Downloads/kept-master/src/js/utils/index.js&#10;marked&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -3016,7 +3001,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/.pyenv/versions/venv-3.5-ece1779/bin/python" />
+      <option name="SDK_HOME" value="$USER_HOME$/.pyenv/versions/ece1779project2-venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ECE1779" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -3273,19 +3258,28 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="22" width="1614" height="1028" extended-state="6" />
-    <editor active="true" />
+    <frame x="66" y="22" width="1614" height="1028" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29707378" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33993745" sideWeight="0.5021618" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30025446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40918803" sideWeight="0.23600508" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33974358" sideWeight="0.49783817" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33974358" sideWeight="0.47773537" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40918803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40918803" sideWeight="0.76399493" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -3330,11 +3324,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2/app/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2/run.py" />
-    <entry file="file://$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2/app/main.py" />
-    <entry file="file://$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2/app/dynamo.py" />
-    <entry file="file://$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2/app/__init__.py" />
     <entry file="file://$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2/config.py" />
     <entry file="file://$PROJECT_DIR$/project2/app/static/js/react.js" />
     <entry file="file://$PROJECT_DIR$/../AmazonLambdaProject2/AmazonLambdaProject2/project2/app/static/scripts/notes.js" />
@@ -3352,12 +3341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#12#0" expanded="false" />
-            <marker date="1489901094000" expanded="true" signature="5779:5822" ph="SELECT * FRO... config_parameters" />
-            <marker date="1489901094000" expanded="true" signature="6037:6132" ph="UPDATE confi... " />
-            <marker date="1489901094000" expanded="true" signature="6367:6462" ph="UPDATE confi... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3400,22 +3383,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/app/templates/thumbnails/view.html" />
-    <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/thumbnails.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="58" selection-end-column="62" />
-          <folding>
-            <marker date="1489853620000" expanded="true" signature="410:632" ph="SELECT image... images" />
-            <marker date="1489853620000" expanded="true" signature="1401:1635" ph="SELECT image... images" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project2/app/templates/thumbnails/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3423,7 +3394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3431,9 +3401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#43#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3441,9 +3408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#22#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3451,9 +3415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-60">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#64#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3461,9 +3422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#23#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3471,7 +3429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3479,23 +3436,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zappa_settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/zappa_settings.json" />
     <entry file="file://$USER_HOME$/Downloads/zappa_flask_dynamo/run.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3503,23 +3451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project2/zappa_settings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project2/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3527,33 +3458,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project2/app/thumbnails.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#78#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project2/app/templates/imagecrawler/view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/app/templates/imagecrawler/view.html" />
     <entry file="file://$PROJECT_DIR$/project2/app/templates/register/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3561,17 +3473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-346">
           <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project2/app/templates/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3579,7 +3480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3587,7 +3487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3595,7 +3494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3603,15 +3501,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ECE1779/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/app/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/zappa_settings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="169" column="42" lean-forward="false" selection-start-line="169" selection-start-column="42" selection-end-line="169" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ECE1779/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1295">
-          <caret line="206" column="38" lean-forward="false" selection-start-line="206" selection-start-column="38" selection-end-line="206" selection-end-column="38" />
+        <state relative-caret-position="2565">
+          <caret line="186" column="33" lean-forward="false" selection-start-line="186" selection-start-column="33" selection-end-line="186" selection-end-column="33" />
           <folding>
+            <element signature="e#0#78#0" expanded="true" />
             <marker date="1491883975000" expanded="true" signature="2486:2522" ph="SELECT * FRO... users" />
             <marker date="1491883975000" expanded="true" signature="2774:2828" ph="SELECT * FRO... users" />
             <marker date="1491883975000" expanded="true" signature="3768:3804" ph="SELECT * FRO... users" />
@@ -3624,49 +3567,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ECE1779/test2.py">
+    <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/builtin/greedy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
-            <marker date="1489895966000" expanded="true" signature="6960:7003" ph="SELECT * FRO... config_parameters" />
-            <marker date="1489895966000" expanded="true" signature="7218:7313" ph="UPDATE confi... " />
-            <marker date="1489895966000" expanded="true" signature="7548:7643" ph="UPDATE confi... " />
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ECE1779/test.py">
+    <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/builtin/google.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="57" />
-          <folding>
-            <element signature="e#372#385#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="495">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/app/templates/imagecrawler/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="540">
+          <caret line="36" column="14" lean-forward="false" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ECE1779/project1/app/thumbnails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <marker date="1489853620000" expanded="true" signature="410:632" ph="SELECT image... images" />
+            <marker date="1489853620000" expanded="true" signature="1401:1635" ph="SELECT image... images" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/ece1779project2-venv/lib/python2.7/site-packages/icrawler/downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="125" column="25" lean-forward="false" selection-start-line="125" selection-start-column="25" selection-end-line="127" selection-end-column="58" />
+          <folding>
+            <element signature="e#25#61#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/app/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="158">
+          <caret line="57" column="75" lean-forward="false" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/app/thumbnails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/app/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="136" column="54" lean-forward="false" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
+        <state relative-caret-position="2025">
+          <caret line="135" column="41" lean-forward="true" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
           <folding>
             <element signature="e#0#87#0" expanded="true" />
           </folding>
