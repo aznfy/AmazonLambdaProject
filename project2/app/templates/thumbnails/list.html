@@ -1,8 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
+    <div class="container">
+        <p><a class="btn btn-primary" href="{{ url_for('download', username = username) }}" role="button">Download</a></p>
+    </div>
+    <hr>
     {% for url in urls %}
         <div class="col-md-3">
-             <a href="{{ url_for('thumb_view', username=username, i = loop.index) }}">
              <img src="{{ url }}" class="img-thumbnail">
              </a>
         </div>
