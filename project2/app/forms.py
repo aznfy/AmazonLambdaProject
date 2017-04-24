@@ -29,6 +29,23 @@ We Override the function in icrawler
 
 '''
 
+
+def new_get_post_info(self, code):
+    """Get info about a single post referenced by its code
+
+    Arguments:
+        code (`str`): the code of the post (can be found in the url:
+            ``https://www.instagram.com/p/<code>/``) when looking
+            at a specific media.
+    """
+    url = "https://www.instagram.com/p/{}/".format(code)
+    res = self.session.get(url)
+    # print(self._get_shared_data(res)['entry_data']['PostPage'][0])
+    media = self._get_shared_data(res)['entry_data']['PostPage'][0]['graphql']['shortcode_media']
+    return media
+
+InstaLooter.get_post_info = new_get_post_info
+
 def new_get_filename(self, task, default_ext):
     """Set the path where the image will be saved.
 
@@ -228,14 +245,15 @@ def image_crawler():
             )
 
     if radio == 'Instagram':
-        looter = InstaLooter(directory="./downloaded_pictures", profile=target)
+        looter = InstaLooter(directory="/tmp/", profile=target)
         looter.download_pictures(media_count=num)
         counter = 0
         for media in looter.medias():
-            # print(media)
+            print(media)
             if (counter < num):
                 if media['is_video']:
-                    url = looter.get_post_info(media['code'])['video_url']
+                    continue
+                    # url = looter.get_post_info(media['code'])['video_url']
                 else:
                     counter = counter + 1
                     url = media['display_src']
