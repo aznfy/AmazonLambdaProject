@@ -9,7 +9,7 @@ import icrawler
 from icrawler.builtin import GoogleImageCrawler
 from icrawler.builtin import GreedyImageCrawler
 from boto3.dynamodb.conditions import Key
-
+from werkzeug.security import generate_password_hash, check_password_hash
 import tempfile
 import os
 import boto3
@@ -166,7 +166,7 @@ def login():
         else:
             for i in response['Items']:
                 pass_word = i['password']
-            if(password==pass_word):
+            if(check_password_hash(pass_word, password)):
                 session['logged_in']=True
                 session['username']=username
                 print (session)
@@ -190,6 +190,7 @@ def register():
     username = request.form.get('username')
     password = request.form.get('password')
     if form.validate_on_submit():
+        password = generate_password_hash(password, method='pbkdf2:sha256', salt_length=8)
         table = dynamodb.Table('Users')
         response = table.query(
             KeyConditionExpression=Key('username').eq(username)
